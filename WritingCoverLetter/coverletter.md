@@ -19,7 +19,7 @@ head:
 
 To the reviewers of the of the Essential Open Source Software for Science,
 
-ImSwitch has sparked in it's relatively new life span a great interest in the microscopy community. It's elegant and efficient design demonstrated a great versatility in various microscopy modalities, making it a novelty for both utilization and experiment reproducibility.
+ImSwitch has sparked in it's relatively new life span a great interest in the microscopy community. It's elegant and efficient design has demonstrated a great versatility in various microscopy modalities, making it a novelty for both utilization and experiment reproducibility.
 
 This letter intends provides a list of names who fully endorse support for ImSwitch as a perfect candidate to receive this grant, in order to expand the outreach of the software and strengthen it's core features.
 
