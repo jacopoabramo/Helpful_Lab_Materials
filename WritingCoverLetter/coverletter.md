@@ -1,32 +1,28 @@
 ---
 size: 11pt
-draft: no
+draft: yes
 head:
-    address: '123 Research Ave, Science Building 2'
-    city: Cambridge
-    state: MA
-    zip: 02114
-    phone: '\(121\) 555-2234'
-    fax: '\(999\) 555-6565'
-    email: 'hannigan@gmail.com'
-    dept: "Microbiology & Bioinformatics"
-sig:
- include: yes
- sign: yes
- name: 'Geoffrey Hannigan, PhD'
- post: Bioinformatics Scientist
- secondpost: Distinguished Second Appointment
+    address: 'Albert-Einstein-Straße, 9'
+    city: Jena
+    state: Germany
+    zip: 07745
+    phone: +49 (0) 3641 206 00
+    email: institut@leibniz-ipht.de
+# sig:
+#  include: no
+#  sign: no
+#  name: 'Leibniz-Institut für Photonische Technologien e. V.'
 ---
 
 \today
 
 
-To the editors of Science:
+To the reviewers of the of the Essential Open Source Software for Science,
 
-We submit for your review: "The role of the microbiome in health and disease" by Geoffrey Hannigan and colleagues. We believe this work to be especially well suited for publication in Science and highly relevant to a broader scientific readership as well as the general public.
+ImSwitch has sparked in it's relatively new life span a great interest in the microscopy community. It's elegant and efficient design demonstrated a great versatility in various microscopy modalities, making it a novelty for both utilization and experiment reproducibility.
 
-Our lab strives to set high standards of reproducibility and transparency, while generating and publishing high quality data. As such, all analysis work-flows, scripts, and datasets have been made publicly available for other researchers to utilize.
+This letter intends provides a list of names who fully endorse support for ImSwitch as a perfect candidate to receive this grant, in order to expand the outreach of the software and strengthen it's core features.
 
-The data presented in this manuscript are original and the manuscript is not under consideration elsewhere. A preprint version of this manuscript has been made available through BioRxiv.
+ImSwitch strives to excel in making microscopy control more accessible to both seasoned scientific developers as well as to newcomers in the scientific community, and it's intent is to break the barrier between them and enstablishing a larger community focused on the topic of open source microscopy control.
 
-We thank you for your consideration and look forward to your response.
+The supporters thank you in advance for your consideration.
